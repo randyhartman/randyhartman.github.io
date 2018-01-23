@@ -32,7 +32,6 @@ header.startup hr {
 
 header.startup h1 {
   font-size: 2rem;
-  padding-bottom: 10px;
 }
 
 .btn {
@@ -40,7 +39,6 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
-  padding-top: 10px;
 }
 
 .btn-xl {
